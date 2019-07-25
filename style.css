@@ -12,7 +12,7 @@ main {
 
 aside {
   grid-area: aside;
-  background: #EB945B;
+  background-color: #EB945B;
 }
 
 article {
