@@ -1,3 +1,15 @@
 header {
-  background: blue;
+  background: #E85472;
+}
+
+aside {
+  backround: #EB945B;
+}
+
+article {
+  background: #ffffff;
+}
+
+footer {
+ background:  #ECC15F;
 }
